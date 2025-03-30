@@ -1,0 +1,290 @@
+[
+    {
+        "category": "Logical Reasoning",
+        "question": "What comes next in the sequence: 3, 6, 11, 18, 27, ?",
+        "options": ["36", "37", "38", "39", "40"],
+        "correctAnswer": "38"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "If a clock shows 3:15, what is the angle between the hour and minute hands?",
+        "options": ["0°", "7.5°", "22.5°", "37.5°", "45°"],
+        "correctAnswer": "7.5°"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "A train moving at 80 km/h passes a man standing on the platform in 7 seconds. If the train maintains a constant speed, what is its approximate length?",
+        "options": ["100m", "120m", "140m", "160m", "180m"],
+        "correctAnswer": "160m"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "Which number is missing in the series? 1, 4, 9, 16, ?, 36",
+        "options": ["20", "24", "25", "30", "32"],
+        "correctAnswer": "25"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "Sarah's mother has four daughters: April, May, June, and __?",
+        "options": ["July", "August", "Sarah", "Monday", "None of the above"],
+        "correctAnswer": "Sarah"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Choose the correct analogy: Eye is to See as Ear is to __?",
+        "options": ["Talk", "Listen", "Smell", "Touch", "Think"],
+        "correctAnswer": "Listen"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Which word is a synonym for 'conundrum'?",
+        "options": ["Solution", "Puzzle", "Decision", "Mistake", "Discussion"],
+        "correctAnswer": "Puzzle"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "What is the opposite of 'benevolent'?",
+        "options": ["Generous", "Kind", "Cruel", "Happy", "Silent"],
+        "correctAnswer": "Cruel"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Identify the correctly spelled word:",
+        "options": ["Occasionally", "Ocassionally", "Occassionaly", "Ocassionaly", "Occasionly"],
+        "correctAnswer": "Occasionally"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Which word does not belong in the group?",
+        "options": ["Dog", "Cat", "Horse", "Apple", "Rabbit"],
+        "correctAnswer": "Apple"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "A cube has 6 faces. If you paint all its faces and then cut it into 64 smaller cubes, how many cubes will have only 3 faces painted?",
+        "options": ["8", "12", "16", "24", "32"],
+        "correctAnswer": "8"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "Which 3D shape will be formed by folding this net?",
+        "options": ["Cube", "Cylinder", "Pyramid", "Sphere", "Cone"],
+        "correctAnswer": "Cube"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "How many faces does a dodecahedron have?",
+        "options": ["6", "8", "10", "12", "20"],
+        "correctAnswer": "12"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "If a mirror reverses an image from left to right, what happens to the top and bottom?",
+        "options": ["Reversed", "Swapped", "Unchanged", "Distorted", "It depends"],
+        "correctAnswer": "Unchanged"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "A folded piece of paper has a hole punched through it. When unfolded, how many holes are visible?",
+        "options": ["1", "2", "4", "6", "8"],
+        "correctAnswer": "4"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "A car travels 90 km in 1.5 hours. What is its average speed?",
+        "options": ["30 km/h", "45 km/h", "50 km/h", "55 km/h", "60 km/h"],
+        "correctAnswer": "60 km/h"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "Solve for x: 5x - 3 = 2x + 9",
+        "options": ["2", "3", "4", "5", "6"],
+        "correctAnswer": "4"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "If a number is doubled and then decreased by 8, the result is 22. What is the number?",
+        "options": ["10", "12", "15", "16", "18"],
+        "correctAnswer": "15"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "What is the next prime number after 37?",
+        "options": ["39", "41", "43", "47", "49"],
+        "correctAnswer": "41"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "A triangle has angles measuring 45° and 65°. What is the measure of the third angle?",
+        "options": ["60°", "70°", "75°", "80°", "85°"],
+        "correctAnswer": "70°"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "Which number is missing in the series? 2, 6, 12, 20, ?, 42",
+        "options": ["26", "28", "30", "32", "34"],
+        "correctAnswer": "30"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "A farmer has 17 sheep, and all but 9 run away. How many sheep are left?",
+        "options": ["8", "9", "10", "12", "17"],
+        "correctAnswer": "9"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "Which shape does not belong?",
+        "options": ["Square", "Rectangle", "Circle", "Triangle", "Pentagon"],
+        "correctAnswer": "Circle"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "If you rearrange the letters in 'LISTEN', you get a word that means:",
+        "options": ["Silent", "Enlist", "Listen", "Tinsel", "Lentis"],
+        "correctAnswer": "Silent"
+    },
+    {
+        "category": "Logical Reasoning",
+        "question": "If all Bloops are Razzies and some Razzies are Lazzies, then can we say some Bloops are definitely Lazzies?",
+        "options": ["Yes", "No", "Maybe", "Only in some cases", "None of the above"],
+        "correctAnswer": "No"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Choose the correct analogy: Book is to Read as Pen is to __?",
+        "options": ["Write", "Paper", "Ink", "Erase", "Draw"],
+        "correctAnswer": "Write"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Which word is a synonym for 'perplexed'?",
+        "options": ["Confused", "Certain", "Obvious", "Smart", "Quick"],
+        "correctAnswer": "Confused"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Find the odd one out:",
+        "options": ["Apple", "Orange", "Banana", "Carrot", "Grapes"],
+        "correctAnswer": "Carrot"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "What is the antonym of 'abundant'?",
+        "options": ["Scarce", "Plenty", "Excess", "Overflow", "Huge"],
+        "correctAnswer": "Scarce"
+    },
+    {
+        "category": "Verbal Comprehension",
+        "question": "Which of the following is not a type of rock?",
+        "options": ["Igneous", "Sedimentary", "Metamorphic", "Concrete", "Granite"],
+        "correctAnswer": "Concrete"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "If a cube has all its edges painted and then is cut into 27 smaller cubes, how many of those cubes will have exactly one painted face?",
+        "options": ["6", "8", "12", "18", "24"],
+        "correctAnswer": "6"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "Which 3D object does not have any edges?",
+        "options": ["Cube", "Sphere", "Pyramid", "Cylinder", "Cone"],
+        "correctAnswer": "Sphere"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "A cylinder is rolled along a flat surface. What shape does its shadow form?",
+        "options": ["Square", "Rectangle", "Circle", "Oval", "Triangle"],
+        "correctAnswer": "Rectangle"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "If you rotate a right-angled triangle by 180 degrees, what happens to its orientation?",
+        "options": ["Flipped horizontally", "Flipped vertically", "Same as before", "Rotated upside-down", "No change"],
+        "correctAnswer": "Rotated upside-down"
+    },
+    {
+        "category": "Spatial Visualization",
+        "question": "How many edges does a tetrahedron have?",
+        "options": ["4", "6", "8", "10", "12"],
+        "correctAnswer": "6"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "If a bag contains 6 red balls, 4 blue balls, and 2 green balls, what is the probability of randomly picking a blue ball?",
+        "options": ["1/3", "2/5", "1/2", "2/3", "3/5"],
+        "correctAnswer": "1/3"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "Solve for x: 3x + 7 = 19",
+        "options": ["2", "3", "4", "5", "6"],
+        "correctAnswer": "4"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "If a rectangle has a length of 10cm and a width of 5cm, what is its area?",
+        "options": ["15 cm²", "30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+        "correctAnswer": "50 cm²"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "The sum of two consecutive odd numbers is 32. What are the numbers?",
+        "options": ["15 and 17", "13 and 19", "11 and 21", "9 and 23", "None of the above"],
+        "correctAnswer": "15 and 17"
+    },
+    {
+        "category": "Quantitative Reasoning",
+        "question": "What is the value of (6² - 4²)?",
+        "options": ["12", "20", "28", "30", "32"],
+        "correctAnswer": "20"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Montreal", "Vancouver", "Ottawa", "Calgary"],
+        "correctAnswer": "Ottawa"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter", "Saturn"],
+        "correctAnswer": "Mars"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Ag", "Au", "Pb", "Fe", "Cu"],
+        "correctAnswer": "Au"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen", "J.K. Rowling"],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "Which gas do plants use for photosynthesis?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen", "Methane"],
+        "correctAnswer": "Carbon dioxide"
+    },
+    {
+        "category": "Pattern Recognition",
+        "question": "What is the missing number in the pattern: 2, 6, 12, 20, ?, 42",
+        "options": ["26", "28", "30", "32", "34"],
+        "correctAnswer": "30"
+    },
+    {
+        "category": "Pattern Recognition",
+        "question": "Which number comes next in the series: 1, 1, 2, 3, 5, 8, ?",
+        "options": ["10", "11", "12", "13", "14"],
+        "correctAnswer": "13"
+    },
+    {
+        "category": "Pattern Recognition",
+        "question": "What comes next in the sequence? A, C, F, J, O, ?",
+        "options": ["S", "T", "U", "V", "W"],
+        "correctAnswer": "U"
+    }
+]

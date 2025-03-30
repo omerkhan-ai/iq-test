@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- ✅ SEO Title & Meta Description -->
+    <title>Quiz App - Test Your Knowledge with Fun Questions!</title>
+    <meta name="description" content="Challenge yourself with this fun and interactive quiz. Test your knowledge and see how many questions you can get right!">
+    <meta name="keywords" content="quiz, online quiz, trivia, test your knowledge, fun quiz, general knowledge">
+    <meta name="author" content="Your Name">
+
+    <!-- ✅ Open Graph (OG) Meta Tags (For Social Media) -->
+    <meta property="og:title" content="Quiz App - Test Your Knowledge!">
+    <meta property="og:description" content="Challenge yourself with this interactive quiz and see how well you score!">
+    <meta property="og:image" content="https://yourwebsite.com/quiz-thumbnail.png"> 
+    <meta property="og:url" content="https://yourwebsite.com">
+    <meta property="og:type" content="website">
+
+    <!-- ✅ Twitter Meta Tags (For Twitter Cards) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quiz App - Fun Trivia Game">
+    <meta name="twitter:description" content="Take this fun quiz and test your knowledge!">
+    <meta name="twitter:image" content="https://yourwebsite.com/quiz-thumbnail.png">
+
+    <!-- ✅ Canonical URL (Prevents Duplicate Content Issues) -->
+    <link rel="canonical" href="https://yourwebsite.com">
+
+    <!-- ✅ Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- ✅ Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="start-screen">
+        <h1>Welcome to the Quiz!</h1>
+        <p>Test your knowledge with fun questions.</p>
+        <button id="start-btn">Start Quiz</button>
+    </div>
+
+    <div id="quiz-container" class="hidden">
+        <h2 id="question-text"></h2>
+        <div id="options-container"></div>
+        <p id="timer">Time Left: <span id="time">30</span>s</p>
+        <button id="next-btn" class="hidden">Next</button>
+    </div>
+
+    <div id="results-screen" class="hidden">
+        <h2>Quiz Completed!</h2>
+        <p>Your score: <span id="final-score"></span></p>
+        <button id="restart-btn">Restart Quiz</button>
+    </div>
+
+    <!-- ✅ JavaScript File -->
+    <script src="script.js" defer></script>
+</body>
+</html>
